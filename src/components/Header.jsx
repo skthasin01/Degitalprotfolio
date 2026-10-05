@@ -69,7 +69,7 @@ export default function Header() {
                   </a>
                   <a
                     className="flex items-center gap-2.5 px-4 py-2.5 text-on-surface-variant hover:text-primary hover:bg-surface-container transition-colors"
-                    href="/public/resume.pdf"
+                    href="/resume.pdf"
                     download
                     onClick={() => setMenuOpen(false)}
                   >

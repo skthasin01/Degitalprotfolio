@@ -21,7 +21,7 @@ export default function Projects() {
       statusBg: "bg-tertiary/10",
       statusBorder: "border-tertiary/20",
       image:
-        "/public/images/blood-donation.png",
+        "/images/blood-donation.png",
       technologies: [
         "React",
         "Vite",
@@ -49,7 +49,7 @@ export default function Projects() {
       statusBg: "bg-secondary/10",
       statusBorder: "border-secondary/20",
       image:
-        "/public/images/library-management.png",
+        "/images/library-management.png",
       technologies: [
         "React",
         "FastAPI",
@@ -74,7 +74,7 @@ export default function Projects() {
       statusColor: "text-primary",
       statusBg: "bg-primary/10",
       statusBorder: "border-primary/20",
-      image: "/public/images/todo-application.png",
+      image: "/images/todo-application.png",
 
       technologies: [
         "Python",

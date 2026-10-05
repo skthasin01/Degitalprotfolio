@@ -113,7 +113,7 @@ export default function Footer() {
               Contact
             </a>
             <a
-              href="/public/resume.pdf"
+              href="/resume.pdf"
               target="_blank"
               className="font-label-code text-label-code text-on-surface-variant transition-colors hover:text-primary"
             >
@@ -159,7 +159,7 @@ export default function Footer() {
           </p>
 
           <p className="font-label-code text-label-code text-outline">
-            Designed & Built with React + Tailwind
+            Designed & Built with React + Tailwind css
           </p>
         </div>
       </div>
