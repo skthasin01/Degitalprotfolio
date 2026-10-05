@@ -19,7 +19,7 @@ export default function Header() {
           <a className="hover:text-primary transition-colors py-1 px-2 rounded hover:bg-surface-container" href="#aboutme">About Me</a>
           <a className="hover:text-primary transition-colors py-1 px-2 rounded hover:bg-surface-container" href="#skills">Skills</a>
           <a className="hover:text-primary transition-colors py-1 px-2 rounded hover:bg-surface-container" href="#projects">Projects</a>
-          <a className="hover:text-primary transition-colors py-1 px-2 rounded hover:bg-surface-container" href="/public/resume.pdf" target="_blank">Resume</a>
+          <a className="hover:text-primary transition-colors py-1 px-2 rounded hover:bg-surface-container" href="/resume.pdf" target="_blank">Resume</a>
         </nav>
 
         <div className="flex items-center gap-space-sm">
